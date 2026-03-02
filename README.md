@@ -9,7 +9,7 @@ I have created a basic student course management system using mysql. i have crea
 ![Database Creation](creating_database_and_creating_table.png)
 
 ### Inserting Values
-![Insert Values](inserting_values_insied_the_table.png)
+![Insert Values](inserting_ values_insied_the_table.png)
 
 ### Showing Inserted Values
 ![Select Output](showing_the_inserted_values.png)
